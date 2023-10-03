@@ -10,8 +10,10 @@ built during a massive project in infinite learning by [alifftwa](https://www.gi
 **Client:** React, TailwindCSS
 
 <p>
-  click here go to website
-  <a href="https://order-here.vercel.app/e-order">ORDHE WEBSITE PROJECT</a>
+  Click here to view the prototype
+  <a href="https://www.figma.com/proto/JtENSrVTuO2WRJ9I4uvAwF/Design---HIFI-%2F-Proto?type=design&node-id=159-1164&t=l7qiZnrUZMz655pH-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=159%3A1164&show-proto-sidebar=1&mode=design">ORDHE PROTOTYPE</a></br>
+  Click here to view the website
+  <a href="https://order-here.vercel.app/e-order">ORDHE WEBSITE</a>
 </p>
 
 
